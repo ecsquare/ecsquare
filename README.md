@@ -1,124 +1,120 @@
 <div align="center">
 
-# Hi, I'm Rihab 👋
+<pre>
+██████╗ ██╗██╗  ██╗ █████╗ ██████╗ 
+██╔══██╗██║██║  ██║██╔══██╗██╔══██╗
+██████╔╝██║███████║███████║██████╔╝
+██╔══██╗██║██╔══██║██╔══██║██╔══██╗
+██║  ██║██║██║  ██║██║  ██║██████╔╝
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
+        a.k.a. 💎 ruby 💎
+</pre>
 
-### Building scalable platforms, AI-driven solutions, and data-intensive applications
+**Software Engineer · Building with AI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihab-rahali/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecsquare)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihab.rahalitt@gmail.com)
-
-</div>
-
----
-
-## 💫 About Me
-
-- 🔭 Building production ML models for real-time sentiment analysis
-- ☁️ Architecting cloud-native solutions on **AWS** (Lambda, S3, DynamoDB)
-- 🌱 Exploring **Rust** for high-performance systems
-- 👥 Empowering the next generation of women in technology
-- 💡 Advocate for engineering excellence and scalable design patterns
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend & AI/ML
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A12640&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+ruby%2C+a+Software+Engineer;%24+I+build+software+powered+by+AI;%24+LLM+features%2C+agents+%26+RAG+in+real+products;%24+cloud-native+apps+on+AWS+%26+Kubernetes;%24+mentoring+the+next+generation+of+engineers" alt="Typing SVG" /></a>
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ecsquare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecsquare&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecsquare&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| Certification | Focus Area |
-|--------------|-----------|
-| 🎯 **Architecting AI Solutions** | Scalable GenAI Systems |
-| 🧠 **Deep Learning Specialization** | Neural Networks & ML |
-| 🎤 **Dynamic Public Speaking** | Technical Communication |
-| 👥 **Women in Tech Ambassador** | Mentorship & Community |
-| 🌍 **UN Volunteer** | Global Impact |
-
-</div>
-
----
-
-## 🌟 What I'm Up To
-
-```yaml
-current_focus:
-  - Building: "Production-grade ML pipelines"
-  - Learning: "Advanced Rust for systems programming"
-  - Contributing: "Open source AI/ML projects"
-  - Mentoring: "Women breaking into tech"
-  - Optimizing: "Cloud architectures for scale"
+```console
+ruby@github:~$ ping rihab --social
 ```
 
----
-
-## 📬 Let's Connect
-
 <div align="center">
 
-**Open to collaboration on AI/ML projects, cloud architecture, and mentorship opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihab-rahali/)
-[![Email](https://img.shields.io/badge/Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihab.rahalitt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a12640)](https://www.linkedin.com/in/rihab-rahali)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a12640)](https://github.com/ecsquare)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a12640)](mailto:rihab.rahalit@gmail.com)
 
 </div>
 
----
+<div align="center">
+<a href="https://buymeacoffee.com/rihabrahali"><img src="https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-a12640?style=for-the-badge" /></a>
+</div>
+
+```console
+ruby@github:~$ whoami
+```
+> **Rihab Rahali** — but everyone calls me **ruby** 💎
+> Software Engineer who builds with AI — I take LLMs, agents and retrieval, and turn them into features real people use.
+
+```console
+ruby@github:~$ cat what_i_build.txt
+```
+- 🛠️ **AI-powered product features** — chat, search, summarization & automation inside real apps
+- 🤖 **Agents & workflows** — multi-step LLM systems that actually get work done
+- 🔍 **RAG & semantic search** — connecting models to your data, reliably
+- ☁️ **Cloud-native backends** — the APIs, pipelines & infrastructure AI features run on
+- 📣 **Mentoring** — helping the next generation of engineers build with AI too
+
+```console
+ruby@github:~$ cat why_work_with_me.md
+```
+- 🚀 **From idea to shipped feature** — I don't stop at the demo; AI features go to production
+- 🎯 **Product-minded** — I build what users need, measured by real impact
+- 🧩 **Full-stack + AI** — frontend, backend, cloud and LLMs in one pair of hands
+- 🤝 **Open to** collaborations & speaking
+
+```console
+ruby@github:~$ ls ~/stack
+```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecsquare&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  ### ⭐ Thanks for visiting! Feel free to explore my repositories
-  
+
+**languages** &nbsp;·&nbsp; `Python` `typescript` `Rust` `bash`
+
+**building with ai** &nbsp;·&nbsp; `Claude Code` `Langchain` `Ollama` `Huggingface` `Rag` `Vector-search`
+
+**data** &nbsp;·&nbsp; `Postgresql` `Redis` `Supabase` `Spark` `MongoDB`
+
+**cloud & ops** &nbsp;·&nbsp; `Aws` `docker` `github-actions`
+
+<br/>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,pytorch,tensorflow,aws,docker,kubernetes,postgres,redis,terraform,git,linux&theme=dark" /></a>
+
+</div>
+
+```console
+ruby@github:~$ ./stats --live
+```
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ecsquare&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a12640&icon_color=a12640&text_color=c9d1d9&ring_color=a12640" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ecsquare&hide_border=true&background=0d1117&ring=a12640&fire=a12640&currStreakLabel=a12640&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecsquare&layout=compact&hide_border=true&bg_color=0d1117&title_color=a12640&text_color=c9d1d9" />
+</div>
+
+```console
+ruby@github:~$ fortune teller
+```
+> *"Do not be afraid of AI, fear is worse than AI"*
+
+```console
+ruby@github:~$ brew install coffee --for=ruby
+```
+
+<div align="center">
+
+### Like what I build? Let's keep it brewing ☕
+Every coffee funds open-source tools, tutorials and mentoring sessions for new engineers.
+
+<a href="https://buymeacoffee.com/rihabrahali"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=rihabrahali&button_colour=a12640&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" height="50" /></a>
+
+<br/><br/>
+
+**💼 Have a project that needs AI? → [Let's talk](https://www.linkedin.com/in/rihab-rahali)**
+
+</div>
+
+```console
+ruby@github:~$ exit
+Connection to github.com closed. Thanks for visiting. ▊
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ecsquare&color=a12640&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
