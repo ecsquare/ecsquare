@@ -102,10 +102,6 @@ ruby@github:~$ brew install coffee --for=ruby
 ### Like what I build? Let's keep it brewing ☕
 Every coffee funds open-source tools, tutorials and mentoring sessions for new engineers.
 
-<a href="https://buymeacoffee.com/rihabrahali"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=rihabrahali&button_colour=a12640&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" height="50" /></a>
-
-<br/><br/>
-
 **💼 Have a project that needs AI? → [Let's talk](https://www.linkedin.com/in/rihab-rahali)**
 
 </div>
@@ -114,7 +110,3 @@ Every coffee funds open-source tools, tutorials and mentoring sessions for new e
 ruby@github:~$ exit
 Connection to github.com closed. Thanks for visiting. ▊
 ```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecsquare&color=a12640&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
